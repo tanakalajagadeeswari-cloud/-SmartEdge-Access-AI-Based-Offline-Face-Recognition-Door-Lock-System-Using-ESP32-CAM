@@ -1,0 +1,2 @@
+# -SmartEdge-Access-AI-Based-Offline-Face-Recognition-Door-Lock-System-Using-ESP32-CAM
+SmartEdge-Access is an advanced door security system that leverages AI-based face recognition technology implemented on the ESP32-CAM microcontroller. Unlike traditional systems that rely on cloud connectivity, this design performs real-time facial authentication completely offline, ensuring faster response times, greater privacy
